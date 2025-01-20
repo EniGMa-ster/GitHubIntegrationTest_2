@@ -1,2 +1,2 @@
-Line added by backend.
-Testing Merge Conflict
+Line added by git.
+Checking if conflict occurs.
