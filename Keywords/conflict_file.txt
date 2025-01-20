@@ -1,2 +1,3 @@
-Line added by backend.
+Line added by git.
 Testing Merge Conflict
+Making changes to repo using git to simulate user 1.
